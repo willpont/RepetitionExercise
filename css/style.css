@@ -1,0 +1,56 @@
+@import url(http://fonts.googleapis.com/css?family=Lato:400,700);
+@import url(http://fonts.googleapis.com/css?family=Alike);
+
+body {
+  margin: 0;
+}
+
+header {
+  margin: 0 auto;
+  width: 1000px;
+}
+
+header h1 {
+  text-align: center;
+  margin: 0;
+  padding-top: .25em;
+}
+
+header h2 {
+  text-align: center;
+  margin: 0;
+  padding-bottom: 1em;
+}
+
+h3 {
+  margin: 0;
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
+
+p {
+  margin: 0;
+  margin-bottom: 10px;
+}
+
+nav {
+  margin: 0 auto;
+  width: 1000px;
+  padding: 5px 0;
+  text-align: center;
+}
+
+nav a {
+  margin: 0 35px;
+}
+
+.floatright {
+  float: right;
+  margin-left: 10px;
+}
+
+#maincolumn {
+  margin: 0 auto;
+  width: 1000px;
+  padding: 5px 15px;
+}
